@@ -5,8 +5,8 @@ A modern, responsive, 2026-style Glassmorphism Profile Card built using **React 
 ---
 
 ## 🌟 Live Demo
-- **Live Vercel URL:** [Deploy on Vercel](https://vercel.com)
-- **GitHub Repository:** [apnoai-task-2-dnyaneshwari](https://github.com)
+- **Live Vercel URL:** [Deploy on Vercel](https://apno-aitask2.vercel.app/)
+- **GitHub Repository:** [apnoai-task-2-dnyaneshwari](https://github.com/D-23Git/Apno-Ai_Task2)
 
 ---
 
